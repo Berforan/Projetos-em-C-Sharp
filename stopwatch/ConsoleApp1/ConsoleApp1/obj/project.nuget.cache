@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7gAPnZXy6QOyFM4Dbqy4OZZHUGH9mNOZbuxQJlBIE5oWU9ao+T4TQA6eNitOfpyduSSUFkMqE/zj/wbeY5ksRg==",
+  "success": true,
+  "projectFilePath": "C:\\repocsharp\\stopwatch\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monique Anselmet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Monique Anselmet\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Monique Anselmet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Monique Anselmet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
